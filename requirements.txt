@@ -496,3 +496,4 @@ zipp @ file:///tmp/build/80754af9/zipp_1615904174917/work
 zope.event==4.5.0
 zope.interface @ file:///C:/ci/zope.interface_1616357322857/work
 zstandard==0.19.0
+requests==2.19.1
